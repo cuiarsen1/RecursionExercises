@@ -1,4 +1,3 @@
-
 public class Question2 {
 	
 	public static void printBackwards(int n)
